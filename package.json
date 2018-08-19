@@ -1,0 +1,27 @@
+{
+  "name": "rust-webassembly-nextjs-ts-demo",
+  "version": "1.0.0",
+  "description": "A demo of using rust + webassembly in a Nextjs webapp written in typescript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksharpatel47/rust-webassembly-nextjs-ts-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksharpatel47/rust-webassembly-nextjs-ts-demo/issues"
+  },
+  "homepage": "https://github.com/aksharpatel47/rust-webassembly-nextjs-ts-demo#readme",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
