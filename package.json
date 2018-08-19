@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/aksharpatel47/rust-webassembly-nextjs-ts-demo#readme",
   "dependencies": {
+    "@zeit/next-typescript": "^1.1.0",
     "next": "^6.1.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
